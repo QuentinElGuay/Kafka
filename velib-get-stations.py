@@ -5,7 +5,7 @@ from  urllib import request
 
 from kafka import KafkaProducer
 
-API_KEY = 'YOUR_API_KEY'
+API_KEY = 'aa27a3e80b5a62d5e41fb4820f8377f912d94726'
 
 url = f'https://api.jcdecaux.com/vls/v1/stations?apiKey={API_KEY}'
 
